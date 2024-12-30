@@ -1,12 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PARTHMANJREKAR .PARTHMANJREKAR" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PARTHMANJREKAR.PARTHMANJREKAR" alt="visitor badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I am +PARTH MANJREKAR;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Alphacorsa&size=280&center=true&vCenter=true&width=5000&height=600&duration=13000&lines=+Welcome!+I'm+Parth+Manjrekar👋;" alt="Typing animation" />
 </h1>
 
-<h3 align="center">A Budding Data Scientist from India !</h3>
 
-<br/>
+<h2 align="center"; style="font-size: 100 px; color:#007FFF;">I am a Budding Data Scientist from India !</h2>
+
 
 <div align="center">
  
@@ -14,10 +14,11 @@
  
  🌱 I’m currently learning **Python, MondoDB, Machine Learning**
 
-⚡ Fun fact **The first computer bug was literally a bug—a moth found in a Harvard Mark II computer in 1947!**
+⚡ Fun fact : **The first computer bug was literally a bug—a moth found in a Harvard Mark II computer in 1947!**
 
 
  </div>
+ <hr/>
  
 <div align="center"> 
   <a href="mailto:parthmanjrekar2546@gmail.com">
@@ -36,11 +37,24 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,Code::Blocksgit,MSDOS Turboc,PyCharm,github,figma,tailwind," />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,figma,tailwind," />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,firebase,mongodb,c,cpp" /><br>
 </div>
 
 <br/>
+
+<hr/>
+
+<h2 align="center">🏆 My GitHub Statistics 🏆</h2>
+
+
+<div align="center">
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=PARTHMANJREKAR&theme=great-gatsby&hide_border=true&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARTHMANJREKAR&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHMANJREKAR&layout=compact&theme=great-gatsby&hide_border=true&bg_color=000000)
+
+</div>
 <hr/>
 
 <div align="center">
@@ -50,26 +64,14 @@
   
   <br/><br/><br/>
 </div>
-
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-PARTHMANJREKAR.vercel.app/?user=PARTHMANJREKAR&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-PARTHMANJREKAR.vercel.app/api?username=PARTHMANJREKAR&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-PARTHMANJREKAR.vercel.app/api/top-langs/?username=PARTHMANJREKAR&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
+<h2 align="center">💖 Sponsor Me 💖</h2>
 <div align="center">
-<a href='https://www.linkedin.com/in/parth-manjrekar-15127328b/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://www.linkedin.com/in/parth-manjrekar-15127328b/' border='0' alt='FOLLOW ME LINKDIN' /></a>
-</div>
+If you enjoy the projects I create and want to help me continue contributing to the open-source community, your support would mean a lot! By sponsoring me on [GitHub Sponsors](https://github.com/sponsors/PARTHMANJREKAR), you’re enabling me to focus more on developing innovative solutions, improving existing projects, and exploring new technologies. Every contribution, no matter how big or small, plays a significant role in helping me grow and share my work with others. 
 
-<br/>
+<hr/>
+
+<h2 align="center">Thank you for your generosity and support on this journey!</h2>
+
