@@ -30,6 +30,9 @@
   <a href="   "_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="   "_blank">
+     <img src="https://img.shields.io/badge/Resume-5363e9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- my resume  -->
+  </a>
 </div>
 
  <hr/>
