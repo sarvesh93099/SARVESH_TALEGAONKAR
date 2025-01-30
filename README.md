@@ -33,6 +33,9 @@
   <a href="https://drive.google.com/file/d/1QZVgv0Y7Y8pLkART91Ak8NQC9xb0nxuy/view?usp=sharing"_blank">
      <img src="https://img.shields.io/badge/Resume-5363e9?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- my resume  -->
   </a>
+  <a href="https://g.dev/ParthManjrekar_Sakec" target="_blank">
+     <img src="https://img.shields.io/badge/GDSC-%234285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDSC">
+</a>
 </div>
 
  <hr/>
